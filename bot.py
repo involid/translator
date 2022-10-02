@@ -2,8 +2,7 @@ import telebot
 from translate import translate, check_lang
 
 
-TOKEN = '5190422162:AAGdlc5Lj0nO_28TARER_lBXEufNPSDF8Qg'
-
+TOKEN = "Token"
 bot = telebot.TeleBot(TOKEN)
 
 users = {}
